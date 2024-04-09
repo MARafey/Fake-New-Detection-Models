@@ -12,4 +12,4 @@ The techinque used include:
 2. LSTM
 3. Binary LSTM
 4. XGB
-5. 
+5. Decision Tree
