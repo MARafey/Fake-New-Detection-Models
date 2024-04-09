@@ -13,3 +13,5 @@ The techinque used include:
 3. Binary LSTM
 4. XGB
 5. Decision Tree
+6. SVM
+7. Naive Baye
