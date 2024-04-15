@@ -30,3 +30,10 @@ The techinque used include:
 | 5  | Decision Tree     | 100   | 4    | 0.5432s        |
 | 6  | SVM               | 16    | 64   | 2.544s         |
 | 7  | Naive Bayesian    | 5     | 40   | 0.57s          |
+
+### Reference:
+1. https://github.com/nishitpatel01/Fake_News_Detection
+2. https://github.com/FavioVazquez/fake-news/blob
+3. https://github.com/gowrivinod/Fake-news-detection
+4. https://github.com/AS-26/Fake-News-Detection-using-NLP-and-ML/tree/main
+5. https://github.com/safe-graph/GNN-FakeNews
